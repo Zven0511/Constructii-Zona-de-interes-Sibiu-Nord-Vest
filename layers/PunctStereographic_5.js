@@ -1,0 +1,1 @@
+var json_PunctStereographic_5 = {"type":"FeatureCollection","name":"PunctStereographic_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[24.130021721540771,45.810124626605408]}}]}
